@@ -1,11 +1,11 @@
 <h1 align="center">Hello World, It's Panagiotis!</h1>
 <h3 align="center">Aspiring frontend developer from Nafpaktos, Greece, diving headfirst into the coding universe. 🚀 With a passion for creating visually stunning and user-friendly interfaces, I'm on a mission to kickstart my career in the tech realm. 💻</h3>
 
-- 🎓My University Projects [https://github.com/panagiotou99?tab=repositories](https://github.com/panagiotou99?tab=repositories)
+- 🎓[My University Projects](https://github.com/panagiotou99?tab=repositories](https://github.com/panagiotou99?tab=repositories))
 
-- 📫 Contact Me **panagiotoupanagiotis1999@gmail.com**
+- 📫Reach Me: panagiotoupanagiotis1999@gmail.com
 
-- 📝My Resume [https://drive.google.com/file/d/1lEsx8O0FDSTGRAF7tO_DhJuTCeRcw23c/view?usp=sharing](https://drive.google.com/file/d/1lEsx8O0FDSTGRAF7tO_DhJuTCeRcw23c/view?usp=sharing)
+- 📝[My Resume](https://drive.google.com/file/d/1lEsx8O0FDSTGRAF7tO_DhJuTCeRcw23c/view?usp=sharing](https://drive.google.com/file/d/1lEsx8O0FDSTGRAF7tO_DhJuTCeRcw23c/view?usp=sharing)uu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
