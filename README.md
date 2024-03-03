@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, It's Panagiotis!</h1>
-<h3 align="center">Aspiring frontend developer from Nafpaktos, Greece, diving headfirst into the coding universe. 🚀 With a passion for creating visually stunning and user-friendly interfaces, I'm on a mission to kickstart my career in the tech realm. 💻</h3>
+<h3 align="center">Aspiring frontend developer from Greece, diving headfirst into the coding universe. 🚀 With a passion for creating visually stunning and user-friendly interfaces, I'm on a mission to kickstart my career in the tech realm. 💻</h3>
 
 - 🎓[My University Projects](https://github.com/panagiotou99?tab=repositories](https://github.com/panagiotou99?tab=repositories))
 
