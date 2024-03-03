@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, It's Panagiotis!</h1>
 <h3 align="center">Aspiring frontend developer from Nafpaktos, Greece, diving headfirst into the coding universe. 🚀 With a passion for creating visually stunning and user-friendly interfaces, I'm on a mission to kickstart my career in the tech realm. 💻</h3>
 
-- 📫 How to reach me **panagiotoupanagiotis1999@gmail.com**
+- 📫 How to reach me ? Send me a personal email on **panagiotoupanagiotis1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
