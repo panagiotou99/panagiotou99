@@ -1,8 +1,6 @@
 <h1 align="center">Hello World, It's Panagiotis!</h1>
 <h3 align="center">Aspiring frontend developer from Nafpaktos, Greece, diving headfirst into the coding universe. 🚀 With a passion for creating visually stunning and user-friendly interfaces, I'm on a mission to kickstart my career in the tech realm. 💻</h3>
 
-<p align="left"> <a href="https://twitter.com/panagiotou99" target="blank"><img src="https://img.shields.io/twitter/follow/panagiotou99?logo=twitter&style=for-the-badge" alt="panagiotou99" /></a> </p>
-
 - 🎓My University Projects [https://github.com/panagiotou99?tab=repositories](https://github.com/panagiotou99?tab=repositories)
 
 - 📫 Contact Me **panagiotoupanagiotis1999@gmail.com**
